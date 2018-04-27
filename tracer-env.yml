@@ -22,6 +22,7 @@ dependencies:
   - cartopy
   - coincbc=2.9.9
   - pandas
+  - metpy
   - pip:
      - git+https://github.com/jjhelmus/CyLP.git@py3
      - git+https://github.com/ARM-DOE/pyart
