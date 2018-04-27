@@ -1,0 +1,28 @@
+#execute
+#export COIN_INSTALL_DIR=$HOME/CONDA_DIR/envs/tracer-env
+#eg export COIN_INSTALL_DIR=/Users/scollis/anaconda3/envs/tracer-env
+name: tracer-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - boto
+  - boto3
+  - cython
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyter
+  - xarray
+  - netcdf4
+  - nose
+  - pytest
+  - trmm_rsl
+  - cartopy
+  - coincbc=2.9.9
+  - pandas
+  - metpy
+  - pip:
+     - git+https://github.com/jjhelmus/CyLP.git@py3
+     - git+https://github.com/ARM-DOE/pyart
