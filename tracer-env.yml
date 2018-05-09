@@ -23,6 +23,7 @@ dependencies:
   - coincbc=2.9.9
   - pandas
   - metpy
+  - siphon
   - pip:
      - git+https://github.com/jjhelmus/CyLP.git@py3
      - git+https://github.com/ARM-DOE/pyart
