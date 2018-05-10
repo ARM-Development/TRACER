@@ -24,7 +24,8 @@ dependencies:
   - pandas
   - metpy
   - siphon
-  - fion
+  - fiona
+  - geopandas
   - pip:
      - git+https://github.com/jjhelmus/CyLP.git@py3
      - git+https://github.com/ARM-DOE/pyart

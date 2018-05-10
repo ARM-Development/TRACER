@@ -1,0 +1,14 @@
+network,station,name,lat,lon,alt,threshold
+holma, A,  Cy-Fair ISD          ,       29.94,  -95.65,    31.66,   -75
+holma, B,  Williams Airport   ,         30.16,  -95.32,    25.82,   -82
+holma, C,  Johnson Space Center  ,      29.57,  -95.10,    -2.93,   -82
+holma, E,  TAMU 1             ,         30.65,  -96.30,    75.82,   0
+holma, F,  Houston SW Airport ,         29.51,  -95.48,     6.89,   -69
+holma, G,  Addicks           ,          29.77,  -95.65,    15.23,   -69
+holma, I,  TAMU 2            ,          30.65,  -96.30,    72.82,   -70
+holma, J,  Lone Star College ,          30.00,  -95.38,    16.11,   -83
+holma, K,  Alvin             ,          29.44,  -95.27,     8.45,   -70
+holma, L,  May               ,          30.06,  -95.06,    13.96,   -75
+holma, M,  Galveston         ,          29.32,  -94.82,    -2.99,   -73
+holma, D,  Sugarland          ,         29.62,  -95.66,    13.21,   -73
+holma, H,  Houston Raceway   ,          29.79,  -94.88,    -5.65,   -73
