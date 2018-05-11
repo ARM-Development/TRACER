@@ -26,6 +26,7 @@ dependencies:
   - siphon
   - fiona
   - geopandas
+  - python-docx
   - pip:
      - git+https://github.com/jjhelmus/CyLP.git@py3
      - git+https://github.com/ARM-DOE/pyart
