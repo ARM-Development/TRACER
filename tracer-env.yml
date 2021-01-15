@@ -6,9 +6,9 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
-  - boto
-  - boto3
+  - python=3.7
+#   - boto
+#   - boto3
   - cython
   - numpy
   - scipy
@@ -18,7 +18,7 @@ dependencies:
   - netcdf4
   - nose
   - pytest
-  - trmm_rsl
+#   - trmm_rsl
   - cartopy
   - coincbc=2.9.9
   - pandas
@@ -27,6 +27,6 @@ dependencies:
   - fiona
   - geopandas
   - python-docx
-  - pip:
-     - git+https://github.com/jjhelmus/CyLP.git@py3
-     - git+https://github.com/ARM-DOE/pyart
+#   - pip:
+#      - git+https://github.com/jjhelmus/CyLP.git@py3
+#      - git+https://github.com/ARM-DOE/pyart
